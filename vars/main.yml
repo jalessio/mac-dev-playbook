@@ -19,57 +19,52 @@ homebrew_installed_packages:
   - gettext
   - go
   - gpg
+  - htop
   - iperf
   - libevent
   - packer
   - python
   - sqlite
-  - mysql
   - npm
-  - php56
-  - php56-xdebug
   - ssh-copy-id
-  - cowsay
-  - ios-sim
   - readline
-  - subversion
-  - kdiff3
   - openssl
   - pv
-  - drush
   - wget
   - wrk
   - brew-cask
+  - rbenv
+  - ruby-build
+  - tmux
 
 homebrew_taps:
   - caskroom/cask
   - homebrew/binary
   - homebrew/dupes
-  - homebrew/php
   - homebrew/versions
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
   - adium
-  - bettertouchtool
+#  - bettertouchtool
   - google-chrome
   - dropbox
   - firefox
-  - handbrake
+  - iterm2
   - karabiner
   - licecap
-  - macvim
   - menumeters
+  - moom
   - nvalt
   - sequel-pro
   - skype
-  - skitch
-  - seil
-  - sublime-text # Note - Sublime Text 2 only, at this time...
-  - textmate
-  - timemachineeditor
+#  - skitch
+#  - seil
+  - sourcetree
+  - spotify
+  - sublime-text3
+#  - timemachineeditor
   - tower
-  - transmit
   - vagrant
   - vagrant-manager
   - vlc
