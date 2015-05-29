@@ -60,6 +60,7 @@ homebrew_cask_apps:
   - skype
 #  - skitch
 #  - seil
+  - sonos
   - sourcetree
   - spotify
   - sublime-text3
