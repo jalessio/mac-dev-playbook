@@ -1,6 +1,8 @@
 ---
 downloads: ~/.ansible-downloads/
 
+configure_sudoers: yes
+
 dotfiles_repo: https://github.com/geerlingguy/dotfiles.git
 dotfiles_repo_local_destination: ~/Dropbox/Development/GitHub/dotfiles
 dotfiles_files:
@@ -14,9 +16,11 @@ dotfiles_files:
 homebrew_installed_packages:
   - ansible
   - autoconf
+  - bash-completion
   - boot2docker
   - docker
   - gettext
+  - git
   - go
   - gpg
   - htop
@@ -49,9 +53,11 @@ homebrew_cask_apps:
 #  - bettertouchtool
   - google-chrome
   - dropbox
+  - fing
   - firefox
   - iterm2
   - karabiner
+  - limechat
   - licecap
   - menumeters
   - moom
