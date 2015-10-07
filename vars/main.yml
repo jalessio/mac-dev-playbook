@@ -56,8 +56,7 @@ homebrew_cask_apps:
   - chefdk
   - chicken
   - disk-inventory-x
-  - docker-compose
-  - docker-machine
+  - dockertoolbox
   - dropbox
   - github-desktop
   - gitx
