@@ -33,6 +33,7 @@ homebrew_installed_packages:
   - openssl
   - pv
   - tig
+  - watch
   - wget
   - wrk
   - brew-cask
