@@ -56,6 +56,7 @@ homebrew_cask_apps:
   - balsamiq-mockups
   - chefdk
   - chicken
+  - diffmerge
   - disk-inventory-x
   - dockertoolbox
   - dropbox
